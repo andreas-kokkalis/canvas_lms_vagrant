@@ -5,8 +5,10 @@ Documentation regarding setup of Canvas testing environment
 **Account Admin** is an administrator of accounts (institutions) and sub-accounts (departments).
 
 There is one account admin with the following login credentials:
+```
 - username: vagrant@example.com
 - password: vagrant123
+```
 
 ### Accounts and sub-accounts
 **Account**: Top level account for an institution, i.e KTH
